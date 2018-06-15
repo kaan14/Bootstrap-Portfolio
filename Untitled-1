@@ -1,0 +1,41 @@
+<div id="wrapport" class="clearfix">
+
+                <div id="portfolio">
+                    <h1>Portfolio</h1>
+                </div><br/>
+                <hr>
+            <div id="picgallery">
+                <img src="assets/images/IMG_0487.JPG">
+                <img src="assets/images/IMG_0296.JPG">
+                <img src="assets/images/IMG_0419.JPG">
+                <img src="assets/images/IMG_0438.JPG">
+                <img src="assets/images/IMG_0388.JPG">
+                <img src="assets/images/IMG_0204.JPG">
+            </div>
+        </div>
+
+           <hr>
+            <footer id="footerwrap">
+            
+                <p>Copyright&copy;</p>
+            </footer> 
+
+            <div id="wrap" class="clearfix">
+
+        <div id="contact">
+            <h1>Contact</h1>
+        </div><br/>
+        <hr>
+        <form> 
+            <label for="Name">Name</label><br/>
+            <input type="text" id="nameuser" placeholder="Name" required ><br/>
+            <label for="Lastname">Lastname</label><br/>
+            <input type="text" id="lastname" placeholder="Lastname" required ><br/>
+            <label for="Email">Email</label><br/>
+            <input type="text" id="email" placeholder="email@email.com" required ><br/>
+            <label for="Message">Message</label><br/>
+            <textarea type="text" id="textarea" rows"10" cols="10" placeholder="Message" required ></textarea></br/>
+            <button type="submit" id="submit">Submit</button> 
+            <button type="reset" id="reset">Reset</button>
+        </form> 
+        </div>
